@@ -4,7 +4,7 @@ https://brightwatch-chronicles.lovable.app/
 
 👤 Lesego Putsoa
 👤 Title: Data Analyst
-🌐 Digital CV: https://lesegoputsoa-digitalcv.lovable.app
+🌐 Digital CV: https://bright-glow-showcase.lovable.app
 🔗 LinkedIn: https://linkedin.com/in/lesego-putsoa-6ab3792b
 🐙 GitHub: https://github.com
 📧 Email: llputsoa@gmail.com
